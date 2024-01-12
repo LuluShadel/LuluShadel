@@ -6,7 +6,7 @@ Junior web developer, I like React. I graduated from Openclassroom and I am very
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-lucile-thieulin.vercel.app/fr)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](in/lucile-thieulin-46a445222)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucile-thieulin-46a445222)
 
 ## 🛠 Skills
 
