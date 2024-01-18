@@ -10,19 +10,11 @@ Junior web developer, I like React. I graduated from Openclassroom and I am very
 
 ## 🛠 Skills
 
-[![HTML](https://img.shields.io/badge/HTML-red)](https://choosealicense.com/licenses/mit/)      
+[![HTML](https://img.shields.io/badge/HTML-red)](https://choosealicense.com/licenses/mit/) [![CSS](https://img.shields.io/badge/CSS-blue)](https://opensource.org/licenses/)  [![SASS](https://img.shields.io/badge/SASS-pink)](http://www.gnu.org/licenses/agpl-3.0)  [![js](https://img.shields.io/badge/javascript-yellow)](http://www.gnu.org/licenses/agpl-3.0)   
+[![React](https://img.shields.io/badge/REACT-red)](http://www.gnu.org/licenses/agpl-3.0) [![Redux](https://img.shields.io/badge/Redux-purple)](http://www.gnu.org/licenses/agpl-3.0)
+ [![Node.js](https://img.shields.io/badge/Node.js-green)](http://www.gnu.org/licenses/agpl-3.0)
 
- [![CSS](https://img.shields.io/badge/CSS-blue)](https://opensource.org/licenses/) 
 
-[![SASS](https://img.shields.io/badge/SASS-pink)](http://www.gnu.org/licenses/agpl-3.0)
-
-[![js](https://img.shields.io/badge/javascript-yellow)](http://www.gnu.org/licenses/agpl-3.0)
-
-[![React](https://img.shields.io/badge/REACT-red)](http://www.gnu.org/licenses/agpl-3.0)
-
-[![Redux](https://img.shields.io/badge/Redux-purple)](http://www.gnu.org/licenses/agpl-3.0)
-
-[![Node.js](https://img.shields.io/badge/Node.js-green)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Other
 
