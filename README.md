@@ -18,10 +18,9 @@ Junior web developer, I like React. I graduated from Openclassroom and I am very
 
 ## Other
 
-🧠 I'm currently learning PHP and I continue to hone my skills on React
+🧠 I continue to hone my skills on React
 
-📫 How to reach me => lucile.thieulin96@gmail.com
-
+📫 How to reach me => lucile.thieulin.dev@gmail.com
 
 ⚡️ Fun fact : I like to walk with my dog, even if it is a little crazy!
 
